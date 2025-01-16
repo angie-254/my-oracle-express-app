@@ -1,0 +1,17 @@
+{
+  "name": "my-oracle-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env index.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "my-oracle-express-app": "file:",
+    "oracledb": "^6.7.0"
+  }
+}

@@ -1,0 +1,5 @@
+
+.codegpt
+config
+node_modules
+.env
